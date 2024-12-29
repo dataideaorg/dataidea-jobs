@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "DATAIDEA"
+  favicon: assets/dataidea-logo.png
+  bread-crumbs: false
+  page-navigation: true
+  repo-actions: [issue]
+  back-to-top-navigation: true
+  reader-mode: true
+  site-url: "https://job.dataidea.org/"
+  description: "Learn Programming For Data Science"
+  repo-branch: main
+  repo-url: "https://github.com/dataidea/dataidea-movies"
+  navbar:
+    right:
+      - text: Home
+        href: "https://jobs.dataidea.org/"
+      - text: Subjects
+        menu:
+          - text: Data Science
+            url: "https://science.dataidea.org/"
+          - text: Web Development
+            url: "https://web.dataidea.org/"
+      - text: Resources
+        menu:
+          - text: Blog
+            url: "https://blog.dataidea.org"
+          - text: Forum
+            url: "https://chat.whatsapp.com/GuCZRyJICgO3Y7MPvDQKhi"
+          - text: French
+            url: "https://french.dataidea.org"
+          - text: Football
+            url: "https://football.dataidea.org"
+      - text: Contact
+        href: "https://courses.dataidea.org/contact"
+      - icon: twitter
+        href: https://twitter.com/datas_idea
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: true
