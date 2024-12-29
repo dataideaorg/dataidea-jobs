@@ -6,7 +6,7 @@ about:
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com/datas_idea
+      href: https://twitter.com/dataideajobs
     - icon: linkedin
       text: LinkedIn
       href: https://linkedin.com/company/dataidea

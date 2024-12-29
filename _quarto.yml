@@ -18,6 +18,14 @@ website:
     right:
       - text: Home
         href: "https://jobs.dataidea.org/"
+      - text: About
+        menu:
+          - text: About Us
+            url: "https://dataidea.org/#about"
+          - text: Privacy Policy
+            url: "https://dataidea.org/privacy_policy.html"
+          - text: Terms of Service
+            url: "https://dataidea.org/terms_of_service.html"
       - text: Subjects
         menu:
           - text: Data Science
