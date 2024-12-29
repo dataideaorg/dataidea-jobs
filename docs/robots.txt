@@ -1,1 +1,1 @@
-Sitemap: https://job.dataidea.org/sitemap.xml
+Sitemap: https://jobs.dataidea.org/sitemap.xml
