@@ -9,7 +9,6 @@ description: In this role, you will guide aspiring data scientists, helping them
 
 ![Photo by DATAIDEA](./thumbnail.jpg)
 
-
 <div class="container mt-5">
 <div class="row">
 <div class="col-md-12">
@@ -112,7 +111,7 @@ Submit your application, including your resume and a brief cover letter, to
 
 <h2>What's on your mind? Put it in the comments!</h2>
 <script src="https://utteranc.es/client.js"
-        repo="dataideaorg/dataidea-movies"
+        repo="dataideaorg/dataidea-jobs"
         issue-term="pathname"
         theme="github-light"
         crossorigin="anonymous"

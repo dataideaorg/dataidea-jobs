@@ -13,7 +13,7 @@ website:
   site-url: "https://jobs.dataidea.org/"
   description: "Learn Programming For Data Science"
   repo-branch: main
-  repo-url: "https://github.com/dataidea/dataidea-movies"
+  repo-url: "https://github.com/dataidea/dataidea-jobs"
   navbar:
     right:
       - text: Home
