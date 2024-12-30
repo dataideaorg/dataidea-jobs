@@ -18,14 +18,6 @@ website:
     right:
       - text: Home
         href: "https://jobs.dataidea.org/"
-      - text: About
-        menu:
-          - text: About Us
-            url: "https://dataidea.org/#about"
-          - text: Privacy Policy
-            url: "https://dataidea.org/privacy_policy.html"
-          - text: Terms of Service
-            url: "https://dataidea.org/terms_of_service.html"
       - text: Subjects
         menu:
           - text: Data Science
@@ -42,8 +34,6 @@ website:
             url: "https://french.dataidea.org"
           - text: Football
             url: "https://football.dataidea.org"
-      - text: Contact
-        href: "https://courses.dataidea.org/contact"
       - icon: twitter
         href: https://twitter.com/datas_idea
 format:
