@@ -2,7 +2,7 @@
 title: Data Science Instructor at DATAIDEA
 author: "Juma Shafara"
 keywords: [Python, Job Opportunity, DATAIDEA]
-date: "2024-09-29"
+date: "2024-12-29"
 categories: [Data Science, Python, Programming]
 description: In this role, you will guide aspiring data scientists, helping them master essential skills and tools to excel in the field.
 ---
