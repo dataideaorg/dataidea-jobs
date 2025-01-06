@@ -31,6 +31,12 @@ The Human Resource Officer – Recruitment provides key support in HR functions,
 - Create job descriptions and interview questions, shortlist candidates, and plan and schedule screening, assessments, and interviews.
 - Develop and implement end-to-end hiring processes to ensure a positive candidate experience.
 
+<p class=pb-1>
+Before we continue, we have a humble request. To be among the first to hear about future updates, simply enter your email below, follow us on <a href="https://x.com/dataideaorg"><i class="bi bi-twitter-x"></i>
+ (formally Twitter)</a>, or subscribe to our <a href="https://www.youtube.com/@dataideaorg"><i class="bi bi-youtube"></i> YouTube channel</a>.
+</p>
+<iframe src="https://embeds.beehiiv.com/5fc7c425-9c7e-4e08-a514-ad6c22beee74?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent; width: 100%;" ></iframe>
+
 ### Staffing Planning
 
 - Collaborate with HR leadership to identify staffing needs and develop job descriptions, qualifications, and timelines for open roles.
@@ -96,3 +102,14 @@ Raising The Village is an equal-opportunity employer committed to diversity and 
 <div>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSck8NjZ3otD6jg9APVtr37hfQJKPImCcrix8qoF9N4uEjofKA/viewform" target="_blank" class="btn" style="background-color: #008374; color: #ffffff">Apply Now!</a>
 </div>
+
+<!-- Comments -->
+<h2>Add your thoughts</h2>
+
+<script src="https://utteranc.es/client.js"
+        repo="dataideaorg/dataidea-movies"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>

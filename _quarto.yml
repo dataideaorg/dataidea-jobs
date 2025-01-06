@@ -35,7 +35,7 @@ website:
           - text: Football
             url: "https://football.dataidea.org"
       - icon: twitter
-        href: https://twitter.com/datas_idea
+        href: https://twitter.com/dataideajobs
 format:
   html:
     theme:
