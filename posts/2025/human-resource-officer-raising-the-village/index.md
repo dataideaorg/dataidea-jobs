@@ -32,8 +32,8 @@ The Human Resource Officer – Recruitment provides key support in HR functions,
 - Develop and implement end-to-end hiring processes to ensure a positive candidate experience.
 
 <p class=pb-1>
-Before we continue, we have a humble request. To be among the first to hear about future updates, simply enter your email below, follow us on <a href="https://x.com/dataideaorg"><i class="bi bi-twitter-x"></i>
- (formally Twitter)</a>, or subscribe to our <a href="https://www.youtube.com/@dataideaorg"><i class="bi bi-youtube"></i> YouTube channel</a>.
+Before we continue, we have a humble request. To be among the first to hear about future updates, simply enter your email below, follow us on <a href="https://x.com/dataideajobs"><i class="bi bi-twitter-x"></i>
+ (formally Twitter)</a>, or subscribe to our <a href="https://www.youtube.com/@dataidea-science"><i class="bi bi-youtube"></i> YouTube channel</a>.
 </p>
 <iframe src="https://embeds.beehiiv.com/5fc7c425-9c7e-4e08-a514-ad6c22beee74?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no" style="margin: 0; border-radius: 0px !important; background-color: transparent; width: 100%;" ></iframe>
 
