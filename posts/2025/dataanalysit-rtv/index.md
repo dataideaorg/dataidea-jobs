@@ -1,10 +1,12 @@
 ---
-title: "Manager – Data Analyst – Program Monitoring at RTV"
+title: "Data Analyst – Program Monitoring at RTV"
 date: "2025-02-18"
 location: "Mbarara, Uganda"
 employment_type: "Full-time"
 experience: "3+ years"
 ---
+
+![Image by DATAIDEA](./thumbnail.jpg)
 
 # Data Analyst – Program Monitoring
 
@@ -18,6 +20,21 @@ experience: "3+ years"
 ## Overview
 
 The Data Officer works under the Analytics Unit within the PEAL department. This role is crucial for economic research, data analysis, and program evaluation. The position involves managing data, running economic models, preparing reports, and providing insights for decision-making. You'll collaborate with both internal and external stakeholders to enhance program effectiveness and measure impact.
+
+<!-- Newsletter -->
+<div class="newsletter">
+<div class="newsletter-heading">
+<h4><i class="bi bi-info-circle-fill"></i> Don't Miss Any Updates!</h4>
+</div>
+<div class="newsletter-body">
+<p>
+Before we continue, we have a humble request, to be among the first to hear about future updates of the course materials, simply enter your email below, follow us on <a href="https://x.com/dataideaorg"><i class="bi bi-twitter-x"></i>
+(formally Twitter)</a>, or subscribe to our <a href="https://www.youtube.com/@dataideascience"><i class="bi bi-youtube"></i> YouTube channel</a>.
+</p>
+<iframe class="newsletter-frame" src="https://embeds.beehiiv.com/5fc7c425-9c7e-4e08-a514-ad6c22beee74?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no">
+</iframe>
+</div>
+</div>
 
 ## Key Responsibilities
 
@@ -73,3 +90,12 @@ The Data Officer works under the Analytics Unit within the PEAL department. This
 **Application Deadline:** February 18, 2025
 
 _Raising The Village is an equal-opportunity employer committed to diversity and inclusion. We highly encourage women candidates to apply._
+
+<!-- Comments -->
+<script src="https://utteranc.es/client.js"
+        repo="dataideaorg/dataidea-movies"
+        issue-term="pathname"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
