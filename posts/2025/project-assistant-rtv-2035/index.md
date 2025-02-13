@@ -14,6 +14,21 @@ type: "Full-time"
 **Reporting To:** Project Officer  
 **Languages:** English, Luo, Rutooro, Rukiga, Lusoga, Rufumbira, Runyankole, Runyakitara, Luganda, Lugisu, and Kupsabiny  
 
+<!-- Newsletter -->
+<div class="newsletter">
+<div class="newsletter-heading">
+<h4><i class="bi bi-info-circle-fill"></i> Don't Miss Any Updates!</h4>
+</div>
+<div class="newsletter-body">
+<p>
+Before we continue, we have a humble request, to be among the first to hear about future updates, simply enter your email below, follow us on <a href="https://x.com/dataideaorg"><i class="bi bi-twitter-x"></i>
+(formally Twitter)</a>, or subscribe to our <a href="https://www.youtube.com/@dataideascience"><i class="bi bi-youtube"></i> YouTube channel</a>.
+</p>
+<iframe class="newsletter-frame" src="https://embeds.beehiiv.com/5fc7c425-9c7e-4e08-a514-ad6c22beee74?slim=true" data-test-id="beehiiv-embed" height="52" frameborder="0" scrolling="no">
+</iframe>
+</div>
+</div>
+
 ## Roles & Responsibilities  
 
 ### Project Implementation  
