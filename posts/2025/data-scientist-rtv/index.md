@@ -1,6 +1,6 @@
 ---
 title: "Data Scientist at Raising The Village"
-date: "2025-02-18"
+date: "2025-02-06"
 location: "Mbarara, Uganda"
 type: "Full-time"
 ---

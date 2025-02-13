@@ -1,6 +1,6 @@
 ---
 title: "Data Analyst – Program Monitoring at RTV"
-date: "2025-02-18"
+date: "2025-02-06"
 location: "Mbarara, Uganda"
 employment_type: "Full-time"
 experience: "3+ years"
