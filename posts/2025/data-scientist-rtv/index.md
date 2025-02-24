@@ -73,4 +73,4 @@ Raising The Village is an equal-opportunity employer committed to diversity and 
 
 ## How to Apply
 
-[Submit your application here](https://docs.google.com/forms/d/e/1FAIpQLScgHYgCZpVD1Zq5z8WVWg5KP0wZoYw2TBsGIS38PgWLkD40SQ/viewform) by February 18, 2025.
+[Submit your application here](https://docs.google.com/forms/d/e/1FAIpQLScgHYgCZpVD1Zq5z8WVWg5KP0wZoYw2TBsGIS38PgWLkD40SQ/viewform) by February 25, 2025.
